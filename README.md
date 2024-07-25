@@ -14,8 +14,6 @@ Electronics: Working with microcontrollers (Arduino Uno), designing and implemen
 
 System Administration: Managing user accounts, backup and recovery of data, monitoring system performance.
 
-Databases: Currently, I have no experience with SQL, but I am open to learning.
-
 💡 Projects:
 
 Developed projects using Arduino Uno for sensor systems and automation.
